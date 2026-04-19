@@ -77,8 +77,10 @@ Analyze e-commerce data to:
 
 ---
 
-## Sample Visualizations
-
+## Sample Visualizations 
+ 
+![Delivery Days Distribution]("D:\Projects\Brazilian E Commerce\Delivery Days Distribution.png")
+ 
 ---
 
 ## Future Improvements
