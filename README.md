@@ -79,8 +79,7 @@ Analyze e-commerce data to:
 
 ## Sample Visualizations 
  
-![Delivery Days Distribution](images/Delivery Days Distribution.png)
- 
+![Delivery Days Distribution](images/Delivery_Days_Distribution.png)
 ---
 
 ## Future Improvements
