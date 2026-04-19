@@ -79,7 +79,9 @@ Analyze e-commerce data to:
 
 ## Sample Visualizations 
  
-![Delivery Days Distribution](images/Delivery_Days_Distribution.png)
+![Delivery Days Distribution](images/Delivery_Days_Distribution.png)  
+![Revenue by Payment Type](images/Revenue_by_Payment_Type.png)
+![Monthly Order Count](images/Monthly_Order_Count.png)
 ---
 
 ## Future Improvements
