@@ -18,7 +18,7 @@ The project focuses on **data cleaning, exploratory data analysis (EDA), and SQL
   - Reviews
   - Products
   - Sellers
-  - Link:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+- Link:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
