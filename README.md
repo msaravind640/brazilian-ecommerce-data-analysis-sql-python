@@ -13,7 +13,7 @@ The analysis combines data cleaning, exploratory data analysis (EDA), and SQL-ba
 - **Records:** 100,000+ e-commerce orders  
 - **Dataset Link:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce  
 
-### Main Tables Used
+### Main Tables
 - Customers
 - Orders
 - Order Items
